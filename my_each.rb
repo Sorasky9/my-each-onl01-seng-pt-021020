@@ -1,3 +1,4 @@
 def my_each(words) # put argument(s) here
-my_eac
+words = ['hi', 'hello', 'bye', 'goodbye']
+my_each(words)
 end
