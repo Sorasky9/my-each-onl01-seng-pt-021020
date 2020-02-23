@@ -9,6 +9,5 @@ yield words[i]
 
 end
 
-words
 
 end
