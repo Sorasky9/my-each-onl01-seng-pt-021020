@@ -4,10 +4,10 @@ i = 0
 yield words[i]
 
 
- while  i < words.length 
+ while  i < words.length
 
 i = i + 1
 
 end
-words
+
 end
