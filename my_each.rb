@@ -7,4 +7,5 @@ i = i + 1
 
 
 end
+word
 end
