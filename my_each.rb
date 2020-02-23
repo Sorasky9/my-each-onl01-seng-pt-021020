@@ -5,6 +5,7 @@ yield words[i]
 
 
  while  i < words.length do |words|
+   
 i = i + 1
 
 end
