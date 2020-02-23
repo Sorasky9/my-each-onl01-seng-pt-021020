@@ -4,7 +4,7 @@ i = 0
 yield words[i]
 
 
- while  i < words.length
+ while  i < words.length do |words|
 i = i + 1
 
 end
